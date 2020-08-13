@@ -7,8 +7,5 @@ The purpose of this project is to analyze standardized test data results to prov
 ### Background
 The analysis was performed twice due to discrepancies in information and changes made to the data. The school board suspects academic dishonesty, in the second analysis those scores which are under question have been changed to "NaN". In this report I will discuss how the changes made to the data affected the overall analysis.
 
-## Results
- -- Overall passing score, passing reading, passing math, lowered by school type of charter
-
 ## Summary
-Altering the original data affected our results.
+Altering the original data affected our results. We saw a decrease in test score percentaged for several metrics
